@@ -6,7 +6,8 @@ O código aborda conceitos básicos de C++, como matrizes, condicionais e loops 
 
 ![image](https://user-images.githubusercontent.com/101840230/222005664-bc2d0924-9e65-4275-88be-a87db3257a91.png)
 
-Instrução:
+## Instrução
+
 Aqui está o tabuleiro numerado basta escolher a posição desejada.
 
 Por exemplo, se quiser colocar sua jogada no canto superior direito do tabuleiro, você digitará "1" e em seguida "3" para indicar a linha 1 e a coluna 3.
